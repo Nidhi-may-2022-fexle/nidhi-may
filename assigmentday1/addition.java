@@ -4,6 +4,7 @@ Public class addition{
 
         a = 15;
         b = 25;
+        sum = 2;
 
         sum = a +b;
         System.ot.println("sum = " + sum):
