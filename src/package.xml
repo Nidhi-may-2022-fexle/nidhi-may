@@ -8,22 +8,5 @@
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
-   
-    <types>
-        <members>helloworld</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>Hello_World__c.Hello_World__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Hello_World__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Hello_World__c</members>
-        <name>CustomTab</name>
-    </types>
     <version>54.0</version>
 </Package>
