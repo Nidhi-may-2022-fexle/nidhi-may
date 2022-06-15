@@ -24,4 +24,5 @@
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
     </fields>
+
 </CustomObject>
