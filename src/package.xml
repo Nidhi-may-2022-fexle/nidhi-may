@@ -8,5 +8,22 @@
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Dream_world__c.Dream_world__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Dream_world__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Dream_world__c</members>
+        <name>CustomTab</name>
+    </types>
+
     <version>54.0</version>
 </Package>
